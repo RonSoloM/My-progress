@@ -1,5 +1,6 @@
 # Udemy-python-course
-This is my progress in learning python repo, just to share my programming skills with the world.
+- This is my progress in learning python.
+- And This is my repo for sharing my programming skills with the world.
 ## What is the main course about?
 - build the skills you need to get your first Python programming job
 
