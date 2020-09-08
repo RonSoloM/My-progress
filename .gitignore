@@ -1,4 +1,4 @@
-Text.txt
+
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,python,windows,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,python,windows,venv
 
@@ -14,7 +14,7 @@ Text.txt
 .idea/**/shelf
 
 # Generated files
-python-code/.idea/**/contentModel.xml
+.idea/**/contentModel.xml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
