@@ -7,5 +7,3 @@ This course is for python complete beginners.
 just remember that when you are using my code,
 you need to mention my name...
 
-
-## CopyRights@2020 RonSolo.
