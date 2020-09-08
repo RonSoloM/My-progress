@@ -9,7 +9,7 @@ python
 
 ## Who this course is for:
 
-This course is for anyone who wants to learn about web development, regardless of previous experience
+This course is for anyone who wants to learn about software development, regardless of previous experience
 It's perfect for complete beginners with zero experience
 It's also great for anyone who does have some experience in a few of the technologies(like HTML and CSS) but not all
 If you want to take ONE COURSE to learn everything you need to know about web development, take this course
