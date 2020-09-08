@@ -1,6 +1,5 @@
 # Udemy-python-course
-This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3.
-
+This is my progress in learning python repo, just to share my programming skills with the world.
 ## What is the main course about?
 - build the skills you need to get your first Python programming job
 
