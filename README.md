@@ -1,19 +1,44 @@
-# Udemy-python-course
-- This is my progress in learning python.
-- And This is my repo for sharing my programming skills with the world.
+# the-web-developer-bootcamp
+ HTML, CSS, JS, Node, and More!
 ## What is the main course about?
-- build the skills you need to get your first Python programming job
 
-- move to a more senior software developer position
+HTML5
 
-- get started with Machine Learning, Data Science, Django or other hot areas that Python specialises in
+CSS3
 
-- or just learn Python to be able to create your own Python apps quickly.
+JavaScript
+
+Bootstrap 4
+
+SemanticUI
+
+DOM Manipulation
+
+jQuery
+
+Unix(Command Line) Commands
+
+NodeJS
+
+NPM
+
+ExpressJS
+
+REST
+
+MongoDB
+
+Database Associations
+
+Authentication
+
+PassportJS
+
+Authorization
 
 ## Who this course is for:
-
-   * Beginners with no previous programming experience looking to obtain the skills to get their first programming job.
-   * Anyone looking to to build the minimum Python programming skills necessary as a pre-requisites for moving into machine learning, data science, and artificial intelligence.
-   * Existing programmers who want to improve their career options by learning the Python programming language.
-   * If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this course is probably not for you.
+This course is for anyone who wants to learn about web development, regardless of previous experience
+It's perfect for complete beginners with zero experience
+It's also great for anyone who does have some experience in a few of the technologies(like HTML and CSS) but not all
+If you want to take ONE COURSE to learn everything you need to know about web development, take this course
 
