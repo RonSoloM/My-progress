@@ -1,5 +1,7 @@
 # the-web-developer-bootcamp
- HTML, CSS, JS, Node, and More!
+This repo about my progress since the start.
+I will use Github to upload all my work and progress.
+Feel free to Check it out.
 ## What is the main course about?
 
 HTML5
