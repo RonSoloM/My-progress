@@ -20,8 +20,6 @@ def get_integer(prompt):
         print("{0} is not a valid number".format(temp))
 
 
-help(get_integer)
-
 highest = 1000
 answer = random.randint(1, highest)
 print(answer)   # TODO: Remove after testing
